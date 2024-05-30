@@ -1,5 +1,5 @@
 # Results
-Neural Network, Random Forest and XGBoost algorithms are used for phishing dettection. They all show exceptional performance in the phishing dataset.
+Neural Network, Random Forest and XGBoost algorithms are used for phishing detection. They all show exceptional performance in the phishing dataset.
 
 **Accuracy**: The Neural Network has the highest accuracy, followed closely by Random Forest, and then XGBoost.
 
