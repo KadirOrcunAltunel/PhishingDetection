@@ -92,7 +92,7 @@ The model is trained on the scaled training data for up to 75 epochs with a batc
 Results from our neural network indicate a high level of accuracy and a relatively high recall. The test loss being low suggests that the model's predictions are quite close to the actual labels. High recall indicates that the model is capable of identifying most of the positive instances correctly, which, in the context of phishing detection, means catching a high number of actual phishing attempts.
 
 # Results
-The algorithms used in the phishing dataset all show exceptional performance.
+All the algorithms used in the phishing dataset show exceptional performance.
 
 **Accuracy**: The Neural Network has the highest accuracy, followed closely by Random Forest, and then XGBoost.
 
