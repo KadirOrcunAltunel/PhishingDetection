@@ -6,10 +6,11 @@ To start the analysis of the phishing dataset, we begin by implementing data exp
 
 For the phishing detection project, we integrate a comprehensive cybersecurity dataset titled "dataset_cybersecurity_michelle.csv" into Python working environment. Leveraging the Google Drive API, we mount Google Drive to gain access to this extensive collection of data. Utilizing the pandas library, renowned for its robust data manipulation capabilities, we import the dataset into a DataFrame, which enables us to work with the data in a structured tabular format.
 
-
 We adjust the display settings of pandas to ensure full visibility of the dataset's numerous attributes. This preliminary glimpse into the data is achieved through the invocation of the `head()`
 function, which displays the first five entries. These entries reveal a variety of features, such as counts of dots, hyphens, underlines, and slashes within URLs—potentially indicative markers in the identification of phishing attempts.
 The scale of the dataset is substantial, with its dimensions being revealed as 129,698 rows and 112 columns. This indicates a rich, multidimensional dataset that is poised to be an invaluable asset for the subsequent data analysis and machine learning applications, focusing on the nuances of cybersecurity threats.
+
+<img width="988" alt="Screenshot 2024-06-06 at 3 18 13 PM" src="https://github.com/KadirOrcunAltunel/PhishingDetection/assets/63982765/e14cebfb-8289-4868-b36e-04b82935c1b8">
 
 Next, we perform a statistical examination of the dataset to derive insights into the characteristics of URLs that may be indicative of phishing activity. To achieve this, we calculate the count of unique values across the dataset using   `nunique(axis=0)` to understand the diversity in the URL features. Subsequently, we use the `describe()` function to obtain a comprehensive summary of the data, which includes count, mean, standard deviation, minimum and maximum values, as well as the 25th, 50th (median), and 75th percentiles for each feature related to URL characteristics.
 
