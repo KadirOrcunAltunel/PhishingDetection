@@ -1,6 +1,7 @@
 
 To start the analysis of the phishing dataset, we begin by implementing data exploration. This foundational process is especially vital when dealing with datasets such as phishing data. Data exploration enables analysts to develop a comprehensive understanding of the dataset, laying the groundwork for extracting valuable insights. Through thorough investigation and an open- minded approach, data exploration empowers analysts to navigate the dataset effectively, thereby enhancing the overall analytical process. Its emphasis on in-depth inquiry is essential for informing decision-making and driving advancements in cybersecurity research, particularly in the field of phishing prevention.
 
+<img width="989" alt="Screenshot 2024-06-06 at 3 16 49 PM" src="https://github.com/KadirOrcunAltunel/PhishingDetection/assets/63982765/1f919a53-87a3-40c2-82b8-3b4fa94824f9">
 
 For the phishing detection project, we integrate a comprehensive cybersecurity dataset titled "dataset_cybersecurity_michelle.csv" into Python working environment. Leveraging the Google Drive API, we mount Google Drive to gain access to this extensive collection of data. Utilizing the pandas library, renowned for its robust data manipulation capabilities, we import the dataset into a DataFrame, which enables us to work with the data in a structured tabular format.
 
