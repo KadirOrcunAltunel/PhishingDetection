@@ -1,3 +1,4 @@
+# Method Implementation
 
 To start the analysis of the phishing dataset, we begin by implementing data exploration. This foundational process is especially vital when dealing with datasets such as phishing data. Data exploration enables analysts to develop a comprehensive understanding of the dataset, laying the groundwork for extracting valuable insights. Through thorough investigation and an open- minded approach, data exploration empowers analysts to navigate the dataset effectively, thereby enhancing the overall analytical process. Its emphasis on in-depth inquiry is essential for informing decision-making and driving advancements in cybersecurity research, particularly in the field of phishing prevention.
 
