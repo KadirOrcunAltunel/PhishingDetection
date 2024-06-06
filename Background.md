@@ -27,3 +27,16 @@ account.
 
 **SMS phishing**: This is a mobile device-oriented phishing attack that uses text messaging
 to convince victims to disclose account credentials or install malware.
+
+Being a victim of these type of phishing attacks can cause many consequences with some of
+them being as severe as identity theft and financial loss. Therefore, individuals should remain
+vigilant when dealing with such cybersecurity threats and educate themselves on ways to
+detect phishing attempts if they ever occur.
+
+In this project, a dataset which contains a comprehensive collection of features extracted from URLs was analysed. 
+For this dataset, XGBoost, Random Forest, and Neural network was used to perform
+classification. Also, Multiple Imputation by Chain Equations (MICE) and IsolationForest was
+used which will be discussed in the Methods section of the paper. Finally, a discussion of the
+results from the methodology and conclusions will be added in the Results section of the
+paper.
+
